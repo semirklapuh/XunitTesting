@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "53jXgwzsgyMSBbY8jZqzN1mh3oiRD5O+EvF6YdPMweZLvuj4oydWDGrFXt0TsMJ2Rlt+sowZGY6W1lgfsCZZEw==",
+  "success": true,
+  "projectFilePath": "/home/meshmind/RiderProjects/TestingApp/TestingApp/TestingApp.csproj",
+  "expectedPackageFiles": [
+    "/home/meshmind/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.26/microsoft.netcore.app.host.linux-x64.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
